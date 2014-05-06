@@ -10,7 +10,7 @@ libraryDependencies ++= Seq(
   "com.typesafe" %% "scalalogging-slf4j" % "1.0.1",
   "com.google.guava" % "guava" % "14.0.1",
   "org.json4s" %% "json4s-native" % "3.2.4",
-  "nu.rinu" %% "sutil" % "0.0.8-SNAPSHOT",
+  "nu.rinu" %% "sutil" % "0.0.9",
   "org.specs2" %% "specs2" % "2.3.7" % "test",
   "org.scalatest" %% "scalatest" % "2.0" % "test",
   "org.xerial" % "sqlite-jdbc" % "3.7.2" % "test",
